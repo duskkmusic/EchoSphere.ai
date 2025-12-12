@@ -287,28 +287,10 @@ CREATE EXTENSION IF NOT EXISTS vector;
 - Confirme que documento foi processado
 - Teste Groq API separadamente
 
-## 📈 Próximos Passos
-
-1. **Implementar document processor** (extrair texto real)
-2. **Adicionar WebSocket** para streaming
-3. **Criar frontend** (React + shadcn/ui)
-4. **Implementar embeddings** e busca semântica
-5. **Adicionar testes** completos
-6. **Deploy** (Railway, Render, ou AWS)
-
-## 🤝 Contribuindo
-
-Este é um projeto educacional! Sinta-se livre para:
-- Adicionar novos tipos de agentes
-- Melhorar prompts dos agentes
-- Implementar features da lista de desafios
-- Criar testes
-- Melhorar documentação
-
 ## 📝 Licença
 
 MIT - Use como quiser para aprender!
 
 ---
 
-**Dica Final**: Comece implementando um desafio por vez. Teste bem cada feature antes de passar para a próxima. E não tenha medo de errar - é assim que se aprende! 🚀
+**Dica Final**: Comece implementando um desafio por vez. Não tenha medo de errar - é assim que se aprende! 🚀
