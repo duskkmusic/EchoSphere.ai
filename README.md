@@ -2,7 +2,7 @@
 
 Sistema avançado de análise de documentos com múltiplos agentes de IA que debatem entre si, oferecendo perspectivas diversas sobre o mesmo conteúdo.
 
-## 🎯 O Que Este Projeto Vai Te Ensinar
+## 🎯 O Que Este Projeto Aborda
 
 ### **Conceitos Avançados**
 - ✅ **OAuth2 completo** com refresh tokens e roles
