@@ -1,0 +1,60 @@
+# Core
+fastapi==0.110.0
+uvicorn[standard]==0.27.0
+python-multipart==0.0.6
+
+# Database
+sqlalchemy[asyncio]==2.0.25
+asyncpg==0.29.0
+alembic==1.13.1
+psycopg2-binary==2.9.9
+
+# Vector DB extension
+pgvector==0.2.4
+
+# Auth
+python-jose[cryptography]==3.3.0
+bcrypt==4.0.1
+passlib[bcrypt]>=1.7.4
+
+# LLM
+groq==0.4.2
+langchain==0.1.16
+langchain-community>=0.0.32,<0.1
+sentence-transformers==2.3.1
+
+# Cache & Queue
+redis==5.0.1
+celery==5.3.6
+
+# Utils
+pydantic==2.5.3
+pydantic-settings==2.1.0
+python-dotenv==1.0.0
+httpx==0.26.0
+
+# Document Processing
+pypdf==4.0.1
+python-docx==1.1.0
+python-magic==0.4.27
+
+# Monitoring & Logging
+loguru==0.7.2
+
+# Testing
+pytest==7.4.4
+pytest-asyncio==0.23.3
+
+# Development
+black==24.1.1
+ruff==0.1.14
+
+# Redis async
+redis[hiredis]==5.0.1
+
+# Validation
+email-validator==2.1.0
+
+# Requests (para healthcheck)
+requests==2.31.0
+
